@@ -1,4 +1,3 @@
-
 print("*" * 40)
 print("       Bus Reservation System")
 print("*" * 40)
