@@ -1,6 +1,6 @@
 products = ["Laptop", "Phone", "Tablet", "Headphones", "Keyboard"]
 
-item = input("Enter product name: ").lower()
+item = input("Enter product name: ")
 
 if item in products:
     print("Item found!")
