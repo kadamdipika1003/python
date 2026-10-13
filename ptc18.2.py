@@ -1,3 +1,11 @@
+
+
+
+
+with open("notes.txt", "w") as f:
+    f.write("Hello Python\n")
+    f.write("Welcome to programming\n")
+    f.write("File handling is easy\n")
 filename = input("Enter the file name: ")
 
 try:
